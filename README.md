@@ -1,4 +1,4 @@
-Expense counting app
+Expense tracker app
 
 Stack: Dart(Flutter),Provider.
 
